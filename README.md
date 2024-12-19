@@ -1,6 +1,6 @@
 # Kütüphane Yönetim Sistemi (Java Swing Tabanlı)  
 
-Bu proje, Java Swing kullanılarak geliştirilmiş bir kütüphane yönetim sistemidir. Proje, bir kütüphane yönetiminde gerekli olan - kullanıcı yönetimi, - kitap envanter yönetimi, - kitap ödünç alma/iade işlemleri  gibi işlevleri içerir. Üç farklı kullanıcı türü bulunmaktadır: - Admin, - Personel, ve - Kullanıcı -. Her kullanıcı tipi, kütüphane sistemindeki iş akışına göre belirli yetkilere sahiptir.  
+Bu proje, Java Swing kullanılarak geliştirilmiş bir kütüphane yönetim sistemidir. Proje, bir kütüphane yönetiminde gerekli olan *kullanıcı yönetimi, **kitap envanter yönetimi, **kitap ödünç alma/iade işlemleri* gibi işlevleri içerir. Üç farklı kullanıcı türü bulunmaktadır: *Admin, **Personel, ve **Kullanıcı*. Her kullanıcı tipi, kütüphane sistemindeki iş akışına göre belirli yetkilere sahiptir.  
 
 ---
 
